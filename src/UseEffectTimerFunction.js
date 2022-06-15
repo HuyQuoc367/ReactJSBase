@@ -7,7 +7,7 @@ function UseEffectTimerFunction() {
     // Dùng sai, setInterval chạy mãi
     // setInterval(() => {
     //     setCountDown(countDown - 1)
-    // }, 1000)
+    // }, 1000) 
 
     useEffect(() => {
         const timerId = setInterval(() => {

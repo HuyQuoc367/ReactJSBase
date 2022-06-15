@@ -8,7 +8,7 @@ const lessons = [
     {
         id: 2,
         name: 'SPA/MPA'
-    },
+    }, 
     {
         id: 3,
         name: 'Arrow function'

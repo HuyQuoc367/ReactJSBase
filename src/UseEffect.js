@@ -10,7 +10,7 @@ import { useEffect, useState } from "react";
 // 3. useEffect(callback, [deps])
 // --- callback sẽ được gọi lại khi deps thay đổi
 // 1. Callback luôn được gọi sau khi component mounted
-// 2. cleanup function luôn được gọi trước khi component unmounted
+// 2. cleanup function luôn được gọi trước khi component unmounted  
 
 const tabs = ['posts', 'comments', 'albums']
 
